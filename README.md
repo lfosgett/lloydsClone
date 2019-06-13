@@ -1,4 +1,5 @@
-# [Chingu Voyage Pre-Work Solo Project: Tier 1 Clone a Landing Page](https://chingu.gitbook.io/chingu-handbook-voyage-9/cohort-guide/pre-work)
+# Chingu Voyage Pre-Work
+[Solo Project: Tier 1 Clone a Landing Page](https://chingu.gitbook.io/chingu-handbook-voyage-9/cohort-guide/pre-work)
 
 **From the Project Requirements Page:**
 
