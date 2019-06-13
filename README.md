@@ -21,4 +21,4 @@ Use HTML, CSS, and JavaScript to create a web page clone of the Taking Control p
 
 [Project Repo](https://github.com/lfosgett/lloydsClone/)
 
-[Deployed](https://github.com/lfosgett/lloydsClone/gh-pages)
+[Deployed](https://lfosgett.github.io/lloydsClone/index.html)
