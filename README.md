@@ -18,5 +18,7 @@ Use HTML, CSS, and JavaScript to create a web page clone of the Taking Control p
 
 ### Project Management:
 [Personal Trello Board](https://trello.com/b/x9bKY9A1/chingu-pre-work-lloyds-taking-control-clone)
+
 [Project Repo](https://github.com/lfosgett/lloydsClone/)
+
 [Deployed](https://github.com/lfosgett/lloydsClone/gh-pages)
